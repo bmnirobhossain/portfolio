@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: Gallery Elementor were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wpdemo
+Data file = C:\xampp\htdocs\wpdemo/wp-content/uploads/2023/01/demo-content-import-file_2023-01-25__13-49-02.xml
+Widget file = C:\xampp\htdocs\wpdemo/wp-content/uploads/2023/01/demo-widgets-import-file_2023-01-25__13-49-02.json
+Customizer file = not defined!
+Redux files:
+pix_options -> C:\xampp\htdocs\wpdemo/wp-content/uploads/2023/01/demo-redux-import-file_0-2023-01-25__13-49-02.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+PixFort Search - Search - Imported
+PixFort Promo Box - Call to action - Imported
+Tag Cloud - No Title - Imported
+PixFort Recent Posts - Recent Posts - Imported
+PixFort Categories - Categories - Imported
+PixFort Social Links - Social Links - Imported
+
+
+
+---Importing widgets---
+Main Sidebar : 
+
+PixFort Search - Search - Widget already exists
+PixFort Promo Box - Call to action - Widget already exists
+Tag Cloud - No Title - Widget already exists
+PixFort Recent Posts - Recent Posts - Widget already exists
+PixFort Categories - Categories - Widget already exists
+PixFort Social Links - Social Links - Widget already exists
+
+

@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "settings": {
+           "blocks": {
+              "core/heading":{
+                "fontSize": "normal"
+              }
+           },
+           "layout": {
+            "contentSize": "650px",
+            "wideSize": "1000px"
+          }
+           
+    }
+}

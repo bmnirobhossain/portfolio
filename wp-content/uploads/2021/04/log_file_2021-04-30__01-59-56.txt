@@ -1,0 +1,11 @@
+
+---Downloaded files---
+The import files for: Popup Cookie policy - Elementor were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://essentials.pixfort.com/gallery-elementor
+Data file = /var/www/essentials.pixfort.com/public_html/wp-content/uploads/sites/49/2021/04/demo-content-import-file_2021-04-30__01-59-56.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!

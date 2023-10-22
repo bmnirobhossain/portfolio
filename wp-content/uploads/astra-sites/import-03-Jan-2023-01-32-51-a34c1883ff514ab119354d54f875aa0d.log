@@ -1,0 +1,45 @@
+
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'Welcome to my page' (1)
+---- Processing Images from Widgets -----
+---- Processing Contact Form Mapping from Text Widgets -----
+---- Processing Contact Form Mapping from WP Forms Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "1044"
+---- Processing WordPress Page - for Gutenberg ---- "1560"
+Source - https://websitedemos.net/pet-care-08/wp-content/uploads/sites/704/2020/02/blogpage-banner.jpg
+Log - {"id":"1022","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2020\/02\/blogpage-banner.jpg"}
+Source - https://websitedemos.net/pet-care-08/wp-includes/images/media/default.png
+Log - {"id":"1518","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2023\/01\/default.png"}
+---- Processing WordPress Page - for Gutenberg ---- "1042"
+---- Processing WordPress Page - for Gutenberg ---- "1558"
+Source - https://websitedemos.net/pet-care-08/wp-content/uploads/sites/704/2020/02/about-banner.jpg
+Log - {"id":"1008","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2020\/02\/about-banner.jpg"}
+Source - https://websitedemos.net/pet-care-08/wp-includes/images/media/default.png
+Log - {"id":"1518","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2023\/01\/default.png"}
+Source - https://websitedemos.net/pet-care-08/wp-content/uploads/sites/704/2021/03/client-logo-4.png
+Log - {"id":"1137","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2021\/03\/client-logo-4.png"}
+Source - https://websitedemos.net/pet-care-08/wp-content/uploads/sites/704/2021/03/client-logo-3.png
+Log - {"id":"1140","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2021\/03\/client-logo-3.png"}
+Source - https://websitedemos.net/pet-care-08/wp-content/uploads/sites/704/2021/03/client-logo-1.png
+Log - {"id":"1138","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2021\/03\/client-logo-1.png"}
+Source - https://websitedemos.net/pet-care-08/wp-content/uploads/sites/704/2021/03/client-logo-2.png
+Log - {"id":"1139","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2021\/03\/client-logo-2.png"}
+---- Processing WordPress Page - for Gutenberg ---- "1040"
+---- Processing WordPress Page - for Gutenberg ---- "1556"
+Source - https://websitedemos.net/pet-care-08/wp-content/uploads/sites/704/2020/02/pet-care-about.jpg
+Log - {"id":"995","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2020\/02\/pet-care-about.jpg"}
+Source - https://websitedemos.net/pet-care-08/wp-includes/images/media/default.png
+Log - {"id":"1518","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2023\/01\/default.png"}
+Source - https://websitedemos.net/pet-care-08/wp-content/uploads/sites/704/2020/02/about-img.png
+Log - {"id":"991","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2020\/02\/about-img.png"}
+Source - https://websitedemos.net/pet-care-08/wp-content/uploads/sites/704/2019/06/testimonial1-free-img.jpg
+Log - {"id":"556","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2019\/06\/testimonial1-free-img.jpg"}
+Source - https://websitedemos.net/pet-care-08/wp-content/uploads/sites/704/2019/06/testimonial2-free-img.jpg
+Log - {"id":"557","url":"http:\/\/localhost\/wpdemo\/wp-content\/uploads\/2019\/06\/testimonial2-free-img.jpg"}
+---- Processing MISC ----
+---- Processing Images Metadata ----
+---- Processing Images Metadata Completed ----
+---- Processing batch process for Customizer start ----
+---- Processing batch process for Customizer done ----
+Batch Process Complete!
